@@ -1,4 +1,4 @@
-# ser321examples
+## examples
 
 All examples in this repository are for you to play with and to learn about the different concepts in this class. This repo is still a "living" thing. As we progress we might add more examples or make changes. 
 
@@ -6,13 +6,6 @@ All examples in this repository are for you to play with and to learn about the 
 It is advised that you fork this repository so that you have your own version and can also make changes to your own repo to test different scenarios. Then clone that repo to your main machine and your second machine. 
 
 If we make changes to the repository we will notify you in the Slack #example_repo channel. See here about forking and keeping your version up to date <https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo?>
-
-## Development
-All examples are developed by the teaching team:
-
-Many examples are used and adapted from Dr. Lindquist and Dr. Gary.
-
-Others were developed by Dr. Mehlhase, David Clements and Aman Kaushik.
 
 
 ## Running the examples
@@ -25,7 +18,4 @@ If you find any issues or have suggestions on how to improve the repo, the Gradl
 
 Feel free to play with these examples, the better you understand these small examples the easier your coding assignments will be. 
 
-Best
-
-Dr. Mehlhase
 
